@@ -4,7 +4,7 @@
 ```json
 {
 	"require": {
-		"narical/grayscale":"~1";
+		"narical/grayscale":"~1"
 	}
 }
 ```
