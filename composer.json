@@ -1,0 +1,9 @@
+{
+	"name": "narical/grayscale",
+	"description":"Изменение цветности картинки при наведении мыши",
+	"homepage":"https://github.com/narical/grayscale",
+	"license": "MIT",
+	"require": {
+		"infrajs/config":"~1"
+	}
+}
