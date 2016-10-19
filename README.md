@@ -10,7 +10,8 @@
 ```
 
 ## Использование
-Есть поддержка автоматического подключения с помощь. [infrajs/collect](https://github.com/infrajs/collect)
+Есть поддержка автоматического подключения с помощью [infrajs/collect](https://github.com/infrajs/collect)
+
 Можно подключить вручную:
 ```html
 <link rel="stylesheet" href="/vendor/narical/grayscale/grayscale.css">
